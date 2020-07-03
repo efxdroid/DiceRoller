@@ -2,4 +2,7 @@
     <string name="app_name">DiceRoller</string>
     <string name="greeting">Hello Android!!</string>
     <string name="rollButton">ROLL</string>
+    <string name="totalPoints">0 Points</string>
+    <string name="playMessage">Move the Bar to play!</string>
+    <string name="userSelectedValue">You Selected: </string>
 </resources>
